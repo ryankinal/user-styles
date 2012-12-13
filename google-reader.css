@@ -1,0 +1,11 @@
+/*
+    Applies to: https://www.google.com/reader/*
+*/
+.entry-original
+{
+    width: 100% !important;
+    height: 37px !important;
+    margin-top: -18px !important;
+    left: 25px !important;
+    background-image: none !important;
+}

@@ -1,0 +1,14 @@
+/*
+    Applies to: http://www.wizards.com/DnD/*, http://www.wizards.com/dnd/*
+*/
+html body {
+    background: #666 url(http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/nasty_fabric.png);
+}
+
+body .NavWrapper {
+    border-bottom: solid black 2px;
+}
+
+.Container .MainHeader .MainHeaderLogo {
+    margin-top: 5px;
+}
