@@ -1,11 +1,22 @@
 /*
     Applies to: https://www.google.com/reader/*
 */
+.entry .collapsed
+{
+    background: transparent url(https://raw.github.com/ryankinal/GMScreen/master/themes/icons/monotone_arrow_down.png) right center no-repeat !important;
+}
+
+.entry.expanded .collapsed
+{
+    background: transparent url(https://raw.github.com/ryankinal/GMScreen/master/themes/icons/monotone_arrow_up.png) right center no-repeat !important;
+}
+
 .entry-original
 {
-    width: 100% !important;
+    width: auto !important;
     height: 37px !important;
     margin-top: -18px !important;
+    margin-right: 20px !important;
     left: 25px !important;
     background-image: none !important;
 }
