@@ -1,5 +1,8 @@
 /*
     Applies to: https://www.google.com/reader/*
+    
+    Makes the "original" link cover the whole entry, except the star, and an "expand" element on the right.
+    I wanted to view the original articles, but have the keeping-track capabilities of Reader.
 */
 .entry .collapsed
 {
