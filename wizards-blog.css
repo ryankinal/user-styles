@@ -1,0 +1,11 @@
+/*
+    Applies to: http://www.wizards.com/dnd/Article*, http://www.wizards.com/DnD/Article*
+*/
+.Content .ModuleContent.ArticleContentWrapper
+{
+    font-size: 1em;
+    width: 80%;
+    margin: 0 10%;
+    text-align: justify;
+    line-height: 1.2em;
+}
