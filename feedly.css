@@ -1,0 +1,18 @@
+/*
+  Applies to: http://feedly.com/home*, http://www.feedly.com/home*
+*/
+body, #feedlyCenter
+{
+  background-image: url(https://raw.github.com/ryankinal/mysubtlepatterns/master/debut_dark/debut_dark.png);
+}
+
+.area
+{
+  border-radius: 10px;
+  background-image: url(https://raw.github.com/ryankinal/mysubtlepatterns/master/light_wool/light_wool.png);
+}
+
+#feedlyTabsHolder div.simpleunreadcount
+{
+  padding-right: 10px !important;
+}
