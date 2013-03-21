@@ -10,3 +10,7 @@ And here's where I'll store my styles.
 **A quick note on !important**
 
 It's bad practice. It really is. But due to the way user styles are implemented with Stylish, it's sometimes necessary (or just far easier) to use `!important`
+
+**Latest:**
+
+Google Reader is being killed off. So I've started using Feedly, and have been customizing it.
