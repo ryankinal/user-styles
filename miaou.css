@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box !important;
+}
+
+#left, #right {
+  background: none !important;
+  padding: 10px;
+}
+
+#left {
+  border-right: solid #999 1px;
+}
+
+#right {
+  border-left: solid #999 1px;
+}
+
+#center {
+  box-shadow: none !important;
+}
+
+.message .user,
+.message .content {
+  padding: 5px !important;
+}
+        
+.message .user {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
