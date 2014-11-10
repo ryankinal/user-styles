@@ -29,6 +29,11 @@
   padding-right: 10px !important;
 }
 
+.message .content code {
+  color: #600;
+  background-color: #DDD;
+}
+    
 #input {
-	font-family: Tahoma, Geneva, sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
 }
